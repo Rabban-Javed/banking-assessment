@@ -1,4 +1,11 @@
 # banking-assessment
+
+firstly you have to start xampp server 
+run mysql on cmd 
+create table like below 
+![image](https://github.com/user-attachments/assets/f116edb5-3523-4f8f-a8b8-1a5d829efee9)
+
+npm install to install the modules 
 ![Screenshot 2024-10-11 211356](https://github.com/user-attachments/assets/719c6cba-82fb-4718-8c87-3877ba35e190)
 ![Screenshot 2024-10-11 211434](https://github.com/user-attachments/assets/f8a8146d-726b-4564-8ed8-70128644027b)
 ![Screenshot 2024-10-11 211555](https://github.com/user-attachments/assets/1701722f-6db3-4b3b-9e10-e7510d840ad6)
